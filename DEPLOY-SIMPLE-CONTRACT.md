@@ -122,3 +122,11 @@ cd Swiss
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
 - After successful deployment, you should receive the following message in your terminal: `Swisstronik contract deployed to 0x...`
+```bash
+nano hardhat.config.js
+```
+- Now delete your private key from here
+- Then to save this file use `Ctrl+X` then `Y` and then press `Enter`
+- Now you need to upload these files on your github repository
+- Follow (this guide)[https://github.com/dxzenith/Swisstronik-Testnet/blob/main/Upload-To-Github.md] to upload these files in your github repository
+- Then submit your contract address and github repo link (here)[https://www.swisstronik.com/testnet2/dashboard]
