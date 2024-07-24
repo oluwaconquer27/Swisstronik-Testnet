@@ -23,7 +23,7 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
 ```bash
 npx hardhat
 ```
-- Keep pressing `Enter`
+- Press `Enter` then again `Enter` then `y` and again `y`
 
 ```bash
 rm hardhat.config.js
