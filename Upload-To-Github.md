@@ -35,3 +35,5 @@ git branch -M main
 ```bash
 git push -u origin main
 ```
+- It will ask your `github username` and `github password` but in the `password` section u need to paste `the generated token` you copied earlier
+- Done !!
