@@ -5,4 +5,5 @@
 
 ## First Task Guide
 
+- First request faucet here : https://faucet.testnet.swisstronik.com/
 - Here is the link of guide of first task : [Click Here](https://github.com/dxzenith/Swisstronik-Testnet/blob/main/DEPLOY-SIMPLE-CONTRACT.md)
