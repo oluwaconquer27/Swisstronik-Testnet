@@ -220,6 +220,8 @@ npx hardhat run scripts/mint.js --network swisstronik
 ```bash
 npx hardhat run scripts/transfer.js --network swisstronik
 ```
+---
+- Remove your private key from `hardhat.config.js` file using below command
 ```bash
 nano hardhat.config.js
 ```
@@ -227,4 +229,5 @@ nano hardhat.config.js
 ```bash
 cat hardhat.config.js
 ```
+---
 - Now visit : [Click Here](https://github.com/dxzenith/Swisstronik-Testnet/blob/main/Upload-To-Github.md) to upload these codes in your github repository
