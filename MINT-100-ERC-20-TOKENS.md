@@ -43,6 +43,7 @@ nano package.json
   }
 }
 ```
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 rm hardhat.config.js
 ```
@@ -65,6 +66,8 @@ module.exports = {
   },
 };
 ```
+- Use `W`, `A`, `S`, `D` key to move the cursor
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 cd contracts
 ```
@@ -93,6 +96,7 @@ contract TestToken is ERC20 {
     
 }
 ```
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 npm install
 ```
@@ -124,6 +128,7 @@ main().catch((error) => {
   process.exitCode = 1;
 });
 ```
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 cd ..
 ```
@@ -176,6 +181,8 @@ main().catch((error) => {
   process.exitCode = 1;
 });
 ```
+- Use `W`, `A`, `S`, `D` key to move the cursor
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 nano transfer.js
 ```
@@ -213,6 +220,8 @@ main().catch((error) => {
   process.exitCode = 1;
 });
 ```
+- Use `W`, `A`, `S`, `D` key to move the cursor
+- Press `Ctrl + X` then `Y` and then press `Enter`
 ```bash
 cd ..
 ```
