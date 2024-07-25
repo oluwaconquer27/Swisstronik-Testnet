@@ -1,7 +1,9 @@
 ## DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
-- Open Linux based Terminal (Ubuntu, WSL)
-- Here is the guide how to install Ubuntu : [Click Here](https://github.com/dxzenith/nodes-faq)
+- Open Github Codespace/ Gitpod / Linux based Terminal (Ubuntu, WSL), Here is the guide how to install Ubuntu : [Click Here](https://github.com/dxzenith/nodes-faq)
+```bash
+cd $HOME
+```
 - Create a folder
 ```bash
 mkdir Swiss
