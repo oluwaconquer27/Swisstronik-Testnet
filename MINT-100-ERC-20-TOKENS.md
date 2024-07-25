@@ -212,7 +212,7 @@ async function main() {
   const transaction = await sendShieldedTransaction(signer, replace_contractAddress, contract.interface.encodeFunctionData(replace_functionName, replace_functionArgs), 0);
 
   await transaction.wait();
-  console.log("Transaction Response: ", transaction.hash);
+  console.log("Transaction Response: https://explorer-evm.testnet.swisstronik.com/tx/" + transaction.hash);
 }
 
 main().catch((error) => {
@@ -231,7 +231,7 @@ npx hardhat run scripts/mint.js --network swisstronik
 ```bash
 npx hardhat run scripts/transfer.js --network swisstronik
 ```
-- Copy the Tx hash u get after applying this command `npx hardhat run scripts/transfer.js --network swisstronik` and save the Tx hash somewhere as u need to provide it on testnet Website
+- Copy the Tx URL u get after applying this command `npx hardhat run scripts/transfer.js --network swisstronik` and save the Tx hash somewhere as u need to provide it on testnet Website
 ---
 - Remove your private key from `hardhat.config.js` file using below command
 ```bash
