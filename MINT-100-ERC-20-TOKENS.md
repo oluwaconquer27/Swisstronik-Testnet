@@ -231,11 +231,14 @@ npx hardhat run scripts/mint.js --network swisstronik
 ```bash
 npx hardhat run scripts/transfer.js --network swisstronik
 ```
+- Copy the Tx hash u get after applying this command `npx hardhat run scripts/transfer.js --network swisstronik` and save the Tx hash somewhere as u need to provide it on testnet Website
 ---
 - Remove your private key from `hardhat.config.js` file using below command
 ```bash
 nano hardhat.config.js
 ```
+- Use `W`, `A`, `S`, `D` key to move the cursor
+- Press `Ctrl + X` then `Y` and then press `Enter`
 - Now verify whether `hardhat.config.js` file still contain your Private key or not using below command
 ```bash
 cat hardhat.config.js
