@@ -129,6 +129,7 @@ cd ..
 ```bash
 npx hardhat run scripts/deploy.js --network swisstronik
 ```
+- Copy the contract address and save it somewhere else, it will be required in the below tasks
 ```bash
 cd scripts
 ```
