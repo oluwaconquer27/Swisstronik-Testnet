@@ -1,6 +1,6 @@
 ## DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
-- Open Linux based Terminal (Ubunut, WSL)
+- Open Linux based Terminal (Ubuntu, WSL)
 - Here is the guide how to install Ubuntu : [Click Here](https://github.com/dxzenith/nodes-faq)
 - Create a folder
 ```bash
