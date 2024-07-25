@@ -13,3 +13,4 @@
 - Do these tasks [here](https://github.com/dxzenith/Swisstronik-Testnet/blob/main/MINT-100-ERC-20-TOKENS.md)
 - Now visit [this site](https://github.com/dxzenith/Swisstronik-Testnet/blob/main/Upload-To-Github.md) to upload codes on ur github
 - Afterthat, Visit [Swisstronik Testnet Website](https://www.swisstronik.com/testnet2/dashboard) to submit your newly created contract address, Transfer Tx URL and repo link
+- Video Guide : [Click Here](https://youtu.be/hgS0HGFhylI?si=_iTJUlqhOJwrqHTi)
