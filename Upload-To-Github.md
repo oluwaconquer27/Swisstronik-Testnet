@@ -7,9 +7,6 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@gmail.com"
 ```
 ```bash
-cd /path/to/your/files
-```
-```bash
 git init
 ```
 ```bash
