@@ -16,9 +16,6 @@ git add .
 git commit -m "Initial commit"
 ```
 - Create a repository in your github manually and copy the link of this repository
-```bash
-git remote add origin ENTER_YOUR_GITHUB_REPO_LINK_HERE
-```
 ---
 YOU NEED TO DO THE BELOW PROCESS ONLY ONE TIME, ALSO MAKE SURE TO SAVE THE GENERATED KEY IN SOMEWHERE ELSE
 - Now visit [This Link](https://github.com/settings/tokens/new) (If it ask password, then provide password)
@@ -26,6 +23,10 @@ YOU NEED TO DO THE BELOW PROCESS ONLY ONE TIME, ALSO MAKE SURE TO SAVE THE GENER
 - In the `Select scopes` sections select `repo` section and then click on Generate token
 - Copy that token, this token will be used as passoword during github files upload
 ---
+```bash
+git remote add origin https://YOUR_GITHUB_USERNAME:ACCESS_TOKEN@REPO_LINK_BEGIN_WITHOUT_HTTPS_AND_END_WITH_.git
+```
+- Example : `https://dxzenith:ghp_9MTyjo33qcebDGPrLvpntALJ6wLgYv3Vow6U@github.com/dxzenith/Swisstronik-Testnet.git`
 ```bash
 git branch -M main
 ```
