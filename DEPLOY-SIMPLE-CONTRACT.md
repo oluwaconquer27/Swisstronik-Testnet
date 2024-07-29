@@ -1,4 +1,4 @@
-## DEPLOY A SIMPLE CONTRACT USING HARDHAT
+ DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
 - Open Github Codespace/ Gitpod / Linux based Terminal (Ubuntu, WSL), Here is the guide how to install Ubuntu : [Click Here](https://github.com/dxzenith/nodes-faq)
 ```bash
